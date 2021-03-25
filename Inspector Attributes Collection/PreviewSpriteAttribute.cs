@@ -5,6 +5,9 @@
  *  This attribute allow you to preview a sprite in the inspector, use it with a Sprite field.
  *  You can specify the preview sprite height as an argument.
  *  
+ * SOURCE:
+ *  https://github.com/Slyp05/Unity-Inspector-Attributes-Collection
+ *
  * */
 namespace InspectorAttribute
 {
