@@ -18,6 +18,9 @@ using UnityEngine;
  *          set { _privateVarName = value; } 
  *      }
  * 
+ * SOURCE:
+ *  https://github.com/Slyp05/Unity-Inspector-Attributes-Collection
+ *
  * */
 namespace InspectorAttribute
 {
