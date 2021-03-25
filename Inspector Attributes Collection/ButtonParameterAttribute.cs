@@ -18,6 +18,9 @@ using UnityEngine;
  *  
  *  void IntParamFunc(int i) => Debug.Log("Int parameters function called with: " + i);
  *  
+ * SOURCE:
+ *  https://github.com/Slyp05/Unity-Inspector-Attributes-Collection
+ *
  * */
 namespace InspectorAttribute
 {
