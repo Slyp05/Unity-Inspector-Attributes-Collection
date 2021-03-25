@@ -21,7 +21,10 @@ using System;
  *      HideType.Readonly                                       readonly if the condition is true (default) 
  *      HideType.Hide                                           hidden if the condition is true
  *      HideType.HideOrReadonly                                 hidden if the condition is true and readonly otherwise
- *      
+ *     
+ * SOURCE:
+ *  https://github.com/Slyp05/Unity-Inspector-Attributes-Collection
+ *
  * */
 namespace InspectorAttribute
 {
