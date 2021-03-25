@@ -8,7 +8,10 @@
  * EXAMPLE:
  *      [Rename("Bar")] float foo;                      Rename the field foo to "Bar" in the inspector.
  *      [Rename("Elem {0}")] float[] fooArray;          Keep the array name but rename every element of the array "Elem X" in the inspector.
- *      
+ *    
+ * SOURCE:
+ *  https://github.com/Slyp05/Unity-Inspector-Attributes-Collection
+ *
  * */
 namespace InspectorAttribute
 {
